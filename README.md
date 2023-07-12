@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Rithivasan,
-- 👀 I’m interested in Data Science,
-- 🌱 I’m currently learning Data Science related Courses & Concepts,
 - 📫 You can reach me, by via email.
 
 <!---
