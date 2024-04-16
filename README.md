@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rithivasan,
-- 🏫 CS Graduand24
+- 🏫 CS Graduand'24
 - 📫 You can reach me, by via email.
 
 <!---
